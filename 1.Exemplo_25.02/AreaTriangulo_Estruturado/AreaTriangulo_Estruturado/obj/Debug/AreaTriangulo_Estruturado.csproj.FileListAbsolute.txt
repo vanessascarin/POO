@@ -1,0 +1,7 @@
+C:\Users\pedro\Source\Repos\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\obj\Debug\AreaTriangulo_Estruturado.csprojAssemblyReference.cache
+C:\Users\pedro\Source\Repos\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\obj\Debug\AreaTriangulo_Estruturado.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Source\Repos\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\bin\Debug\AreaTriangulo_Estruturado.exe.config
+C:\Users\pedro\Source\Repos\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\bin\Debug\AreaTriangulo_Estruturado.exe
+C:\Users\pedro\Source\Repos\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\bin\Debug\AreaTriangulo_Estruturado.pdb
+C:\Users\pedro\Source\Repos\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\obj\Debug\AreaTriangulo_Estruturado.exe
+C:\Users\pedro\Source\Repos\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\obj\Debug\AreaTriangulo_Estruturado.pdb
