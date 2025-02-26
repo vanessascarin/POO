@@ -1,33 +1,41 @@
-﻿using System;
+﻿/*APRENDENDO A MONTAR UMA CLASSE E INSTANCIAR UM OBJETO 
 
-namespace AreaTriangulo_Estruturado
+EXERCÍCIO 01: Fazer um programa para ler os dados de duas pessoas, depois mostrar o nome da pessoa mais velha. 
+
+ Exemplo: Dados da primeira pessoa:  
+Nome: Maria  
+Idade: 17  
+Dados da segunda pessoa: 
+ Nome: Joao 
+ Idade: 16  
+Pessoa mais velha: Maria  */
+
+using System;
+using System.Diagnostics.Eventing.Reader;
+
+namespace PessoaMaisVelha
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Triangulo x = new Triangulo();
-            Retangulo r = new Retangulo();
+            Pessoa a = new Pessoa();
+            Pessoa b = new Pessoa();
             double area;
-            Console.WriteLine("Entre com as medidas do triângulo X:");
-            x.A = double.Parse(Console.ReadLine());
-            x.B = double.Parse(Console.ReadLine());
-            x.C = double.Parse(Console.ReadLine());
-            double q = x.SemiPerimetro();
-            area = x.AreaTriangulo();
-            Console.WriteLine("Área de X = " + area.ToString("F2"));
-            Console.WriteLine("Semi perímetro = " + q.ToString("F2"));
-            //         ############### RETANGULO ####################
-            Console.WriteLine("Entre com as medidas do RETANGULO R:");
-            r.A = double.Parse(Console.ReadLine());
-            r.B = double.Parse(Console.ReadLine());
-            area = r.AreaRetangulo();
-            q = r.SemiPerimetro();
-            Console.WriteLine("Área de r = " + area.ToString("F2"));
-            Console.WriteLine("Semi perímetro r = " + q.ToString("F2"));
-
-
-
+            Console.WriteLine("Entre com o nome da primeira pessoa:");
+            a.Nome = double.Parse(Console.ReadLine());
+            Console.WriteLine("Entre com a idade da primeira pessoa:");
+            a.Idade = double.Parse(Console.ReadLine());
+            Console.WriteLine("Entre com o nome da segunda pessoa:");
+            b.Nome = double.Parse(Console.ReadLine());
+            Console.WriteLine("Entre com a idade da primeira pessoa:");
+            b.Idade = double.Parse(Console.ReadLine());
+            if (a.Idade - b.Idade > 0)
+                Console.WriteLine("Pessoa mais velha: " + a.Nome);
+            else if (a.Idade = b.Idade)
+                Console.WriteLine("Ambos têm a mesma idade.");
+            else
+                Console.WriteLine("Pessoa mais velha: " + b.Nome);
             Console.ReadLine();
             Console.ReadKey();
         }

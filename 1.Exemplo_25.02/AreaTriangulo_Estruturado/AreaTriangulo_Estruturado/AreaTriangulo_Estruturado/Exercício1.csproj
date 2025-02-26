@@ -44,8 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Retangulo.cs" />
-    <Compile Include="Triangulo.cs" />
+    <Compile Include="..\..\..\..\2.Exercícios_25.02\Exercício1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

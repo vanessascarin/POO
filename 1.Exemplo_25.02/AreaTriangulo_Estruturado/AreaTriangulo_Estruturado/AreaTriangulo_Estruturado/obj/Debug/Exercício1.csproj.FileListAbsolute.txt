@@ -1,0 +1,7 @@
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\1.Exemplo_25.02\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\bin\Debug\AreaTriangulo_Estruturado.exe.config
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\1.Exemplo_25.02\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\bin\Debug\AreaTriangulo_Estruturado.exe
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\1.Exemplo_25.02\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\bin\Debug\AreaTriangulo_Estruturado.pdb
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\1.Exemplo_25.02\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\obj\Debug\Exercício1.csproj.AssemblyReference.cache
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\1.Exemplo_25.02\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\obj\Debug\Exercício1.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\1.Exemplo_25.02\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\obj\Debug\AreaTriangulo_Estruturado.exe
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\1.Exemplo_25.02\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\AreaTriangulo_Estruturado\obj\Debug\AreaTriangulo_Estruturado.pdb
