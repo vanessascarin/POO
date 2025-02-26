@@ -1,0 +1,15 @@
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\Exercício3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\Exercício3.AssemblyInfoInputs.cache
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\Exercício3.AssemblyInfo.cs
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\Exercício3.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\Exercício3.sourcelink.json
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\bin\Debug\net8.0\Exercício3.exe
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\bin\Debug\net8.0\Exercício3.deps.json
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\bin\Debug\net8.0\Exercício3.runtimeconfig.json
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\bin\Debug\net8.0\Exercício3.dll
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\bin\Debug\net8.0\Exercício3.pdb
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\Exercício3.dll
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\refint\Exercício3.dll
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\Exercício3.pdb
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\Exercício3.genruntimeconfig.cache
+C:\Users\vanes\OneDrive\Documents\Unip semestre 3\POO\2.Exercícios_25.02\Exercício3\obj\Debug\net8.0\ref\Exercício3.dll

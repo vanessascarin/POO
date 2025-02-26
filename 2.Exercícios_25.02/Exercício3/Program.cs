@@ -20,3 +20,33 @@ Digite o número de produtos a ser removido do estoque:
  3  
 Dados atualizados: TV, $ 900.00, 12 unidades, Total: $ 10800.0 */
 
+using System;
+
+namespace Exercício3
+{
+    class Program
+    {
+        static void Main()
+        {
+            /*Criando o objeto e preenchendo os atributos*/
+            Produto produto1 = new Produto();
+            Console.WriteLine("Entre com os dados do produto:");
+            Console.WriteLine("Nome:");
+            produto1.Nome = Console.ReadLine();
+            Console.WriteLine("Preço:");
+            produto1.Preco = double.Parse(Console.ReadLine());
+            Console.WriteLine("Quantidade no estoque:");
+            produto1.Qtde_Estoque = int.Parse(Console.ReadLine());
+
+            /*Mostrar estado do objeto instanciado*/
+            produto1.Status_Produto();
+
+            /*Adicionar produto no estoque*/
+            produto1.Adicionar_Estoque();
+
+            /*Remover produto do estoque*/
+            produto1.Remover_Estoque();
+
+        }
+    }
+}
