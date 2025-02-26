@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\2.Exerc\u00EDcios_25.02\\Exerc\u00EDcio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1B9966-09DF-406C-83AF-65A285CABDAE}|Exerc\u00EDcio2.csproj|c:\\users\\vanes\\onedrive\\documents\\unip semestre 3\\poo\\2.exerc\u00EDcios_25.02\\exerc\u00EDcio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1B9966-09DF-406C-83AF-65A285CABDAE}|Exerc\u00EDcio2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1B9966-09DF-406C-83AF-65A285CABDAE}|Exerc\u00EDcio2.csproj|c:\\users\\vanes\\onedrive\\documents\\unip semestre 3\\poo\\2.exerc\u00EDcios_25.02\\exerc\u00EDcio2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1B9966-09DF-406C-83AF-65A285CABDAE}|Exerc\u00EDcio2.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\2.Exerc\u00EDcios_25.02\\Exerc\u00EDcio2\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\2.Exerc\u00EDcios_25.02\\Exerc\u00EDcio2\\Funcionario.cs*",
+              "RelativeToolTip": "Funcionario.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:57:43.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\2.Exerc\u00EDcios_25.02\\Exerc\u00EDcio2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\2.Exerc\u00EDcios_25.02\\Exerc\u00EDcio2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:56:31.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
