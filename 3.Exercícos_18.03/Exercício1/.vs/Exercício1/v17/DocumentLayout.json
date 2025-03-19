@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|c:\\users\\vanes\\onedrive\\documents\\unip semestre 3\\poo\\3.exerc\u00EDcos_18.03\\exerc\u00EDcio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|c:\\users\\vanes\\onedrive\\documents\\unip semestre 3\\poo\\3.exerc\u00EDcos_18.03\\exerc\u00EDcio1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|c:\\users\\vanes\\onedrive\\documents\\unip semestre 3\\poo\\3.exerc\u00EDcos_18.03\\exerc\u00EDcio1\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|solutionrelative:quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|c:\\users\\vanes\\onedrive\\documents\\unip semestre 3\\poo\\3.exerc\u00EDcos_18.03\\exerc\u00EDcio1\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|c:\\users\\vanes\\onedrive\\documents\\unip semestre 3\\poo\\3.exerc\u00EDcos_18.03\\exerc\u00EDcio1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|c:\\users\\vanes\\onedrive\\documents\\unip semestre 3\\poo\\3.exerc\u00EDcos_18.03\\exerc\u00EDcio1\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|solutionrelative:retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|c:\\users\\vanes\\onedrive\\documents\\unip semestre 3\\poo\\3.exerc\u00EDcos_18.03\\exerc\u00EDcio1\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A0F04-C133-43C2-93BF-89558E5C2F08}|Exerc\u00EDcio1.csproj|solutionrelative:figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-19T15:15:21.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Triangulo.cs",
+              "RelativeToolTip": "Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:48:40.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Quadrado.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Quadrado.cs",
+              "RelativeToolTip": "Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:43:12.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Retangulo.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Retangulo.cs",
+              "RelativeToolTip": "Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:41:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Circulo.cs",
+              "RelativeDocumentMoniker": "Circulo.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Circulo.cs",
+              "RelativeToolTip": "Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:35:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FiguraGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\FiguraGeometrica.cs",
+              "RelativeDocumentMoniker": "FiguraGeometrica.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\FiguraGeometrica.cs",
+              "RelativeToolTip": "FiguraGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:21:19.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documents\\Unip semestre 3\\POO\\3.Exerc\u00EDcos_18.03\\Exerc\u00EDcio1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:12:25.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
